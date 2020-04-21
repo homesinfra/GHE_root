@@ -16,3 +16,8 @@
   font-weight: 700;
   font-weight: 700;
 }
+@media (max-width: 479px){
+[data-novi-id="1"]{
+  color: #fffff6;
+}
+}
